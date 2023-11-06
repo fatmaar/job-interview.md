@@ -26,7 +26,7 @@ Target user :
 User experience theme:
 - klasik
 - Sederhana
-- Warna: ala-ala monochrome /white -> memberikan kesan kebersihan, ketenangan, kedamaian /grey  -> untuk memperindah agar warna terlihat sedikit abstrak /black -> memberikan kesan tajam agar ballance dengan warna lainnya
+- Warna: ala-ala monochrome /white -> memberikan kesan kebersihan, ketenangan, kedamaian /grey  -> untuk memperindah agar warna terlihat lebih hidup /black -> memberikan kesan tajam agar ballance dengan warna lainnya
 - Inspirasi desain:
 
 ![image](https://github.com/fatmaar/job-interview.md/assets/144698418/088cb958-0c54-4a02-998f-a879a97e7678)
@@ -52,6 +52,15 @@ pengguna | memilih metode pembayaran | bisa memilih membayar menggunakan opsi ya
 pengguna | melihat ringkasan pesanan | sebelum checkout produk bisa dilakukan pengecekan ulang | ⭐⭐⭐⭐⭐
 pengguna | melihat fitur pesanan | bisa mengecek apakah pesanan sudah diproses/belum dan bisa melacak pesanan sudah berada dimana | ⭐⭐⭐⭐
 pengguna | memiliki kolom penilaian | bisa menilai produk yang sudah dibeli | ⭐⭐⭐⭐
+admin | mengakses data user | bisa mengupdate/menghapus data user | ⭐⭐⭐⭐⭐
+admin | mengakses pesanan masuk | bisa menerima/membatalkan pesanan | ⭐⭐⭐⭐⭐
+admin | mengakses data transaksi | bisa memberikan tampilan selesai pembayaran/belum | ⭐⭐⭐⭐⭐
+admin | edit produk | bisa mengganti harga/produk/menambahkan produk | ⭐⭐⭐⭐⭐
+admin | upload produk | bisa menambahkan produk baru | ⭐⭐⭐⭐⭐
+admin | memiliki bot chat | bisa mengirimkan pesan secara otomatis ketika pengguna chat untuk pertama kalinya | ⭐⭐⭐⭐
+admin | memberikan diskon | bisa digunakan pengguna pada saat akan memilih barang yang sedang ada diskon| ⭐⭐⭐⭐
+admin | memberikan voucher | bisa digunakan pengguna pada saat checkout produk pada ringkasan pesanan | ⭐⭐⭐⭐
+admin | memberikan opsi metode pembayaran | bisa digunakan pengguna untuk memilih opsi pembayaran yang sesuai | ⭐⭐⭐
 
 
 ## 3. Struktur Data
