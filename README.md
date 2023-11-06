@@ -26,10 +26,7 @@ Target user :
 User experience theme:
 -klasik
 -Sederhana
--Warna: ala-ala monochrome
--white -> memberikan kesan kebersihan, ketenangan, kedamaian
--grey  -> untuk memperindah agar warna terlihat sedikit abstrak
--black -> memberikan kesan tajam agar ballance dengan warna lainnya
+-Warna: ala-ala monochrome /white -> memberikan kesan kebersihan, ketenangan, kedamaian /grey  -> untuk memperindah agar warna terlihat sedikit abstrak /black -> memberikan kesan tajam agar ballance dengan warna lainnya
 -Inspirasi desain:
 
 ![image](https://github.com/fatmaar/job-interview.md/assets/144698418/088cb958-0c54-4a02-998f-a879a97e7678)
