@@ -8,25 +8,25 @@ bla bla bla
 
 ## 1.3. Branding
 
-Merk: custom motorbike
-Tagline: wujudkan desain motor sesukamu
-Campaign: aplikasi ini akan membantu anda untuk mempermudah dalam mewujudkan desain motor sesuai dengan preferensi kamu sendiri lohh!!
-Target user:
-Usia 17+
-Seorang yang senang menuangkan keinginannya 
-Seorang yang senang mengeksplorasi berbagai jenis motor
-Seorang yang senang akan suasana baru 
-Seorang yang selalu ingin mengupdate sesuatu hal
-Seorang yang senang mengembangkan idenya
-Seorang yang senang mengembangkan hobby nya
-User experience theme:
-klasik
-Sederhana
-Warna: ala-ala monochrome
-        -white -> memberikan kesan kebersihan, ketenangan, kedamaian
-        -grey  -> untuk memperindah agar warna terlihat sedikit abstrak
-        -black -> memberikan kesan tajam agar ballance dengan warna lainnya
-Inspirasi desain:
+*Merk: custom motorbike
+*Tagline: wujudkan desain motor sesukamu
+*Campaign: aplikasi ini akan membantu anda untuk mempermudah dalam mewujudkan desain motor sesuai dengan preferensi kamu sendiri lohh!!
+*Target user:
+        -Usia 17+
+        -Seorang yang senang menuangkan keinginannya 
+        -Seorang yang senang mengeksplorasi berbagai jenis motor
+        -Seorang yang senang akan suasana baru 
+        -Seorang yang selalu ingin mengupdate sesuatu hal
+        -Seorang yang senang mengembangkan idenya
+        -Seorang yang senang mengembangkan hobby nya
+*User experience theme:
+        -klasik
+        -Sederhana
+        -Warna: ala-ala monochrome
+                -white -> memberikan kesan kebersihan, ketenangan, kedamaian
+                -grey  -> untuk memperindah agar warna terlihat sedikit abstrak
+                -black -> memberikan kesan tajam agar ballance dengan warna lainnya
+*Inspirasi desain:
 
 ![image](https://github.com/fatmaar/job-interview.md/assets/144698418/088cb958-0c54-4a02-998f-a879a97e7678)
 
@@ -37,6 +37,21 @@ sebagai | saya ingin bisa | sehingga | prioritas
 ---|---|---|---
 pengguna| melihat tampilan beranda | bisa melihat apa saja yang akan dibeli | ⭐⭐⭐⭐⭐
 pengguna | melihat daftar produk | bisa memilih produk | ⭐⭐⭐⭐⭐
+pengguna | mencari produk | bisa memudahkan dalam mencari sesuatu yang diinginkan | ⭐⭐⭐⭐⭐
+pengguna | memiliki keranjang | bisa memasukkan produk ke dalam kerangjang dan memudahkan dalam menggabungkan/memilih kembali barang yang disukai | ⭐⭐⭐⭐⭐
+pengguna | melihat keranjang | bisa melihat barang apa saja yang sudah masuk dalam keranjang | ⭐⭐⭐⭐⭐
+pengguna | menghapus produk dari keranjang | produk tidak menumpuk | ⭐⭐⭐⭐
+pengguna | melihat akun/profile | bisa mengupdate data | ⭐⭐⭐⭐⭐
+pengguna | memiliki room chat | bisa memudahkan dalam komunikasi dengan produsen | ⭐⭐⭐⭐⭐
+pengguna | membeli produk | bisa membawa pulang produk yang dipilih | ⭐⭐⭐⭐⭐
+pengguna | mengedit produk yang sudah dipilih | keraguan yang tiba-tiba muncul dapat diubah | ⭐⭐⭐
+pengguna | melihat diskon | bisa memilih diskon yang sesuai dengan produk | ⭐⭐⭐⭐
+pengguna | memiliki voucher | bisa mendapatkan potongan harga | ⭐⭐⭐⭐
+pengguna | memilih opsi pengiriman | bisa menentukan sesuai kebutuhan | ⭐⭐⭐⭐⭐
+pengguna | memilih metode pembayaran | bisa memilih membayar menggunakan opsi yang diinginkan | ⭐⭐⭐
+pengguna | melihat ringkasan pesanan | sebelum checkout produk bisa dilakukan pengecekan ulang | ⭐⭐⭐⭐⭐
+pengguna | melihat fitur pesanan | bisa mengecek apakah pesanan sudah diproses/belum dan bisa melacak pesanan sudah berada dimana | ⭐⭐⭐⭐
+pengguna | memiliki kolom penilaian | bisa menilai produk yang sudah dibeli | ⭐⭐⭐⭐
 
 
 ## 3. Struktur Data
