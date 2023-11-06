@@ -15,19 +15,19 @@ Tagline : "mari wujudkan desain motor sesukamu!"
 Campaign : aplikasi ini akan membantu anda untuk mempermudah dalam mewujudkan desain motor sesuai dengan preferensi kamu sendiri lohh!
 
 Target user :
--Usia 17+
--Seorang yang senang menuangkan keinginannya 
--Seorang yang senang mengeksplorasi berbagai jenis motor
--Seorang yang senang akan suasana baru 
--Seorang yang selalu ingin mengupdate sesuatu hal
--Seorang yang senang mengembangkan idenya
--Seorang yang senang mengembangkan hobby nya
+- Usia 17+
+- Seorang yang senang menuangkan keinginannya 
+- Seorang yang senang mengeksplorasi berbagai jenis motor
+- Seorang yang senang akan suasana baru 
+- Seorang yang selalu ingin mengupdate sesuatu hal
+- Seorang yang senang mengembangkan idenya
+- Seorang yang senang mengembangkan hobby nya
 
 User experience theme:
--klasik
--Sederhana
--Warna: ala-ala monochrome /white -> memberikan kesan kebersihan, ketenangan, kedamaian /grey  -> untuk memperindah agar warna terlihat sedikit abstrak /black -> memberikan kesan tajam agar ballance dengan warna lainnya
--Inspirasi desain:
+- klasik
+- Sederhana
+- Warna: ala-ala monochrome /white -> memberikan kesan kebersihan, ketenangan, kedamaian /grey  -> untuk memperindah agar warna terlihat sedikit abstrak /black -> memberikan kesan tajam agar ballance dengan warna lainnya
+- Inspirasi desain:
 
 ![image](https://github.com/fatmaar/job-interview.md/assets/144698418/088cb958-0c54-4a02-998f-a879a97e7678)
 
