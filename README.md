@@ -4,11 +4,10 @@ Aplikasi yang berbasis web mengenai pemasaran produk motor custom ini adalah mot
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-bla bla bla
-
+Motor custom merupakan kendaraan roda dua yang dibangun dengan spesifikasi yang disesuaikan (customisasi). Biasanya dibangun dari satu basis motor tertentu, baik itu hanya diambil bagian rangka nya saja atau mesinnya. Website ini akan memberimu kesan yang baik dengan berbagai fitur yang disuguhkan untuk konsumen. CustomMotorbike menyediakan pengalaman belanja berbagai jenis motor yang nyaman, menarik, unik, dan tentunya berkualitas tinggi. Dengan menawarkan produk dengan kualitas yang tinggi, kekreatifan teknologi pun diuji guna meningkatkan pelayanan yang baik kepada konsumen, menciptakan berbagai macam fitur, mempermudah pemahaman konsumen terhadap apa yang di tawarkan, memberikan kenyamanan. Website ini akan terus berinovasi dalam pengembangan teknologi-teknologi yang semakin update.
 ## 1.3. Branding
 
-Merk : custom motorbike
+Merk : CustomMotorbike
 
 Tagline : "mari wujudkan desain motor sesukamu!"
 
