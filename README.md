@@ -36,6 +36,7 @@ sebagai | saya ingin bisa | sehingga | prioritas
 ---|---|---|---
 pengguna| melihat tampilan beranda | bisa melihat apa saja yang akan dibeli | ⭐⭐⭐⭐⭐
 pengguna | melihat daftar produk | bisa memilih produk | ⭐⭐⭐⭐⭐
+pengguna | melihat harga | bisa melihat harga sebelum checkout | ⭐⭐⭐⭐⭐
 pengguna | mencari produk | bisa memudahkan dalam mencari sesuatu yang diinginkan | ⭐⭐⭐⭐⭐
 pengguna | memiliki keranjang | bisa memasukkan produk ke dalam kerangjang dan memudahkan dalam menggabungkan/memilih kembali barang yang disukai | ⭐⭐⭐⭐⭐
 pengguna | melihat keranjang | bisa melihat barang apa saja yang sudah masuk dalam keranjang | ⭐⭐⭐⭐⭐
@@ -51,6 +52,7 @@ pengguna | memilih metode pembayaran | bisa memilih membayar menggunakan opsi ya
 pengguna | melihat ringkasan pesanan | sebelum checkout produk bisa dilakukan pengecekan ulang | ⭐⭐⭐⭐⭐
 pengguna | melihat fitur pesanan | bisa mengecek apakah pesanan sudah diproses/belum dan bisa melacak pesanan sudah berada dimana | ⭐⭐⭐⭐
 pengguna | memiliki kolom penilaian | bisa menilai produk yang sudah dibeli | ⭐⭐⭐⭐
+pengguna | menghubungi nomor produsen | bisa bertanya perihal produk secara lebih dalam | ⭐⭐⭐
 admin | mengakses data user | bisa mengupdate/menghapus data user | ⭐⭐⭐⭐⭐
 admin | mengakses pesanan masuk | bisa menerima/membatalkan pesanan | ⭐⭐⭐⭐⭐
 admin | mengakses data transaksi | bisa memberikan tampilan selesai pembayaran/belum | ⭐⭐⭐⭐⭐
