@@ -103,7 +103,9 @@ flowchart TD
 
 ## 5. Teknologi, Library, dan Framework
 
-bla bla bla
+- UI/UX Design : Figma
+- Text Editor  : VS Code
+- Database     : MySQL
 
 ## 6. Desain User Experience dan User Interface
 
