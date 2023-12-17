@@ -102,7 +102,7 @@ Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/synta
 
 ```mermaid
 flowchart TD
-    id1[(Database: MySQL)] <--> id2[Web Backend : Laravel] <--> id3[Web Server : Laravel]  
+    id1[(Database: MySQL)] <--> id2[Application Web Backend : Laravel] <--> id3[Web Server : Laravel]  
 ```
 
 ## 5. Teknologi, Library, dan Framework
@@ -112,9 +112,9 @@ flowchart TD
 - Database     : MySQL
 
 ## 6. Desain User Experience dan User Interface
+landing page
+![Screenshot 2023-12-17 221824](https://github.com/fatmaar/job-interview.md/assets/144698418/766c68ea-e6b5-40af-8a0d-26deb51ffa57)
 
-Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
 
 ## 7. Demonstrasi Video
 
