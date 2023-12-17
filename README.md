@@ -112,8 +112,8 @@ flowchart TD
 - Database     : MySQL
 
 ## 6. Desain User Experience dan User Interface
-landing page
-![Screenshot 2023-12-17 221824](https://github.com/fatmaar/job-interview.md/assets/144698418/766c68ea-e6b5-40af-8a0d-26deb51ffa57)
+
+landing page ![Screenshot 2023-12-17 221824](https://github.com/fatmaar/job-interview.md/assets/144698418/766c68ea-e6b5-40af-8a0d-26deb51ffa57)
 
 
 ## 7. Demonstrasi Video
