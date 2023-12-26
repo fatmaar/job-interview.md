@@ -107,9 +107,10 @@ flowchart TD
 
 ## 5. Teknologi, Library, dan Framework
 
-- UI/UX Design : Figma
-- Text Editor  : VS Code
-- Database     : MySQL
+- Isi konten halaman web menggunakan HTML
+- Styling halaman web menggunakan CSS
+- Interaktivitas halaman web menggunakan JavaScript
+- tekt editor menggunakan vscode
 
 ## 6. Desain User Experience dan User Interface
 
