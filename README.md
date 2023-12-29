@@ -118,7 +118,7 @@ landing page ![Screenshot 2023-12-17 221824](https://github.com/fatmaar/job-inte
 
 
 ## 7. Demonstrasi Video
-
+[https://youtu.be/Pq3DJYX6Fy4?si=uFhL_ZoBJBfzTWDC]
 
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
